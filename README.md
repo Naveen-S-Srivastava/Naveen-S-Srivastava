@@ -58,7 +58,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Naveen-S-Srivastava\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-S-Srivastava\&layout=compact\&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-S-Srivastava\&theme=tokyonight)
 
