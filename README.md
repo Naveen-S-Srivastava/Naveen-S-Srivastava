@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naveen-S-Srivastava&color=blueviolet&start=500)
+![Profile Views](https://views-counter.vercel.app/badge?pageId=Naveen-S-Srivastava&initial=500)
 ![Followers](https://img.shields.io/github/followers/Naveen-S-Srivastava?style=social)
 ![Stars](https://img.shields.io/github/stars/Naveen-S-Srivastava?style=social)
 
