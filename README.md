@@ -70,7 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naveen-shekhar-srivastava-b5429626a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Naveen-S-Srivastava)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen.shekhar.sri@gmail.com)
+[![naveen.shekhar.sri@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveen.shekhar.sri@gmail.com)
 
 
 ---
