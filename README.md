@@ -56,12 +56,12 @@
 
 
 <div align="center">
-#Git-Hub Stats
+## **Git-Hub Stats**
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen-S-Srivastava&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-S-Srivastava&layout=compact&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-S-Srivastava&theme=tokyonight)
-![All-time contributions](https://img.shields.io/badge/Contributions-All%20Time-blue?style=for-the-badge)
+![Total commits](https://img.shields.io/github/commit-activity/m/Naveen-S-Srivastava?style=for-the-badge)
 
 </div>
 
