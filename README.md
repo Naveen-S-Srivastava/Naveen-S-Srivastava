@@ -54,13 +54,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen-S-Srivastava&show_icons=true&theme=tokyonight&count_private=true)
 ![Naveen's commits graph](https://activity-graph.herokuapp.com/graph?username=Naveen-S-Srivastava&theme=react-dark&area=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-S-Srivastava\&layout=compact\&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-S-Srivastava\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-S-Srivastava&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-S-Srivastava&theme=tokyonight)
+![All-time commits](https://img.shields.io/github/commit-activity/m/Naveen-S-Srivastava?style=for-the-badge&logo=github)
 
 </div>
 
