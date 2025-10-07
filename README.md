@@ -12,6 +12,10 @@
 
 ## 🚀 About Me
 
+✨ *Android 📱 | ML 🤖 | Linux 🐧 | DSA 💻 = My playground.*  
+Always building, experimenting, and leveling up across mobile apps, system tools, and algorithms.
+
+
 * 📱 **Android Developer** (Kotlin + Java)
 * 🤖 Currently working on **Machine Learning projects**
 * 🐧 Built and explored multiple **Linux-based projects & system tools**
