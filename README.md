@@ -56,6 +56,7 @@ Always building, experimenting, and leveling up across mobile apps, system tools
 ### **Android & Mobile** 📱
 <img src="https://media.giphy.com/media/RJzm826vu0w8ILobly/giphy.gif" width="50">
 <br/>
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -64,6 +65,7 @@ Always building, experimenting, and leveling up across mobile apps, system tools
 ### **Machine Learning & Data** 🤖
 <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="50">
 <br/>
+
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,6 +74,7 @@ Always building, experimenting, and leveling up across mobile apps, system tools
 ### **Linux & Tools** 🐧
 <img src="https://media.giphy.com/media/IdzovcoUvxWLWQH3m7/giphy.gif" width="50">
 <br/>
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
